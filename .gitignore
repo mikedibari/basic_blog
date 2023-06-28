@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+settings_local.py
+
+# IDE files
+.vscode/
+*.pydevproject
+.idea/
+
+# Log files
+*.log
+
+# Database
+*.sqlite3
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Environment variables
+.env
+
+# Dependency directories
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+
+# pytest cache
+.pytest_cache/
+
+# macOS files
+.DS_Store
